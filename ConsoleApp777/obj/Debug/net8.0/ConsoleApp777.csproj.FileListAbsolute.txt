@@ -1,0 +1,14 @@
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\bin\Debug\net8.0\ConsoleApp777.exe
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\bin\Debug\net8.0\ConsoleApp777.deps.json
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\bin\Debug\net8.0\ConsoleApp777.runtimeconfig.json
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\bin\Debug\net8.0\ConsoleApp777.dll
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\bin\Debug\net8.0\ConsoleApp777.pdb
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.dll
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\refint\ConsoleApp777.dll
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.pdb
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ref\ConsoleApp777.dll
