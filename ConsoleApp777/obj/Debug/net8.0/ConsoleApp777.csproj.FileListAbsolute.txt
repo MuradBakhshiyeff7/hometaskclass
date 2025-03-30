@@ -12,3 +12,4 @@ C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\D
 C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.pdb
 C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.genruntimeconfig.cache
 C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ref\ConsoleApp777.dll
+C:\Users\murad\OneDrive\Masaüstü\CodeAcademy\ConsoleApp777\ConsoleApp777\obj\Debug\net8.0\ConsoleApp777.sourcelink.json
